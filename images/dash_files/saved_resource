@@ -1,0 +1,43 @@
+
+var ftGUID_9046001="61736A828751EB";
+var ftConfID_9046001="0";
+var ftParams_9046001="ftOBA=1&ft_agentEnv=0&ft_referrer=https://startbootstrap.com/previews/sb-admin-pro;https%3A%2F%2Fstartbootstrap.com%2Fpreviews%2Fsb-admin-pro&us_privacy=${US_PRIVACY}&ft_partnerimpid=ABAjH0ipqTl_AKJQR98sSwbYHyCE;ABAjH0ipqTl_AKJQR98sSwbYHyCE&site_url=https://startbootstrap.com/previews/sb-admin-pro&pub_id=1&sup_platform=1&cachebuster=169622.08858924167&ft_keyword=DV360CampID:__21988603334__&ft_section=DV360CampID:21988603334";
+var ftKeyword_9046001="";
+var ftCustom_9046001="";
+var ftSection_9046001="DV360CampID:21988603334";
+var ftSegment_9046001="";
+var ftSegmentList_9046001=[];
+var ftRuleMatch_9046001="0";
+var ftTimestamp_9046001="1734682426";
+var ftGeoC2_9046001="in";
+var ftGeoState_9046001="pb";
+var ftGeoCity_9046001="landran";
+var ftISP_9046001="quadrant televentures limited";
+var ftSpeed_9046001="broadband";
+var ftConnType_9046001="wifi";
+var ftDMA_9046001="-1";
+var ftLong_9046001="76.67";
+var ftLat_9046001="30.69";
+var ftPostal_9046001="140307";
+var ftTimeZone_9046001="+530";
+var ftMobileCarrier_9046001="";
+var ftImp9046001 = {};
+ftImp9046001.privacy = "x";
+ftImp9046001.guidAge = "25";
+ftImp9046001.impID = "2D4EA853-77B3-56D8-2324-3184B5F10683";
+ftImp9046001.duid = "FT:61736A828751EB";
+
+ftImp9046001.ft_tpplid = "";
+ftImp9046001.ft_c = {};
+ftImp9046001.gdpr = "";
+ftImp9046001.gdpr_consent = "";
+ftImp9046001.gdpr_pd = "";
+ftImp9046001.oob_consent = "";
+ftImp9046001.gdprStoredConsent = "";
+ftImp9046001.us_privacy = "!!US_PRIVACY!";
+ftImp9046001.gpc = "";
+
+ftImp9046001.jsAppend = "1";
+var ftCreativeId_9046001 = "4691267";
+(function(){var tag=document.getElementById("ft_servedby_9046001")||function(s){return s[s.length-1]}(document.getElementsByTagName("script")),js=document.createElement("script");js.src="https://ajs-assets.ftstatic.com/ftUtils.js";js.id="ftscript_m9046001";js.setAttribute("name","ftscript_m9046001");tag.parentNode.insertBefore(js,tag)})();window.fTChecker=window.fTChecker||function(id){if(!id)return false;id=""+id;if(window.hasOwnProperty("ftUtils")){window["ft"+id]=Object.assign({},window.ftUtils.common);window["ft"+id].getBannerConfig(id)}else(function(id){window.setTimeout(function(){window.fTChecker(id)},50)})(id)};window.fTChecker("9046001");
+
